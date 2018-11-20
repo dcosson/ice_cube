@@ -26,7 +26,7 @@ module IceCube
       end
 
       def type
-        :day
+        :week
       end
 
       def dst_adjust?
